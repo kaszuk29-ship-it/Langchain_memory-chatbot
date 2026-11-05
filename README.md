@@ -60,11 +60,10 @@ Cortex-AI-Chatbot/
 └── .gitignore
 ```
 ## Screenshots
+
 <img width="637" height="331" alt="image" src="https://github.com/user-attachments/assets/403f49de-9553-4ead-86c1-59dd396e667c" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8c0d7df1-fb63-44bb-af0b-3167b24d3854" />
-
-
+<img width="633" height="332" alt="image" src="https://github.com/user-attachments/assets/b0281187-5169-479c-84a9-fd398fadc8cb" />
 
 ## Installation and Setup
 
